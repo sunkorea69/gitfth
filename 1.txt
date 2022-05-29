@@ -1,9 +1,6 @@
 master a
 master c
 master d
-exp
-exp
-exp
 add master
 master
 master
