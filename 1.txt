@@ -1,9 +1,13 @@
 master a
+<<<<<<< HEAD
 master c
 master d
-add master
-master
-master
+=======
 exp
+exp
+exp
+>>>>>>> exp
+add master
+ixp
 exp
 exp exp

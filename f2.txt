@@ -1,3 +1,8 @@
 f2
+<<<<<<< HEAD
 filflfeifejl
 f3
+=======
+f3
+45
+>>>>>>> exp
