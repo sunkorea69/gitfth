@@ -1,12 +1,8 @@
 master a
-master c
-master c
 exp
 exp
 exp
 add master
-master
-master
-exp
+ixp
 exp
 exp exp
